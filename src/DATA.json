@@ -1,0 +1,76 @@
+{
+  "restaurants": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Bika Ambon",
+      "description": "Bika Ambon adalah makanan khas Medan yang terkenal dengan tekstur lembut dan rasa manis yang menggoda. Makanan ini terbuat dari adonan tepung beras, telur, ragi, gula, dan santan kelapa. Rasanya yang manis dengan sentuhan kelembutan dan aroma pandan membuatnya menjadi favorit bagi banyak orang. Bika Ambon dapat ditemukan di berbagai toko kue tradisional, pasar, atau restoran di Medan.",
+      "pictureId": "https://img.okezone.com/content/2020/06/12/298/2229217/cara-membuat-bika-ambon-khas-medan-lembut-di-mulut-HWbOWCuHyP.jpg",
+      "city": "Medan",
+      "rating": 4.6
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Babi Guling",
+      "description": "Babi Guling adalah makanan khas Bali yang terkenal dengan cita rasa yang kaya dan unik. Makanan ini terdiri dari daging babi yang dipanggang secara tradisional dengan bumbu rempah khas Bali. Proses memanggang yang dilakukan dengan hati-hati menghasilkan daging yang empuk dengan kulit renyah yang terkenal sebagai keistimewaan Babi Guling. Hidangan ini biasanya disajikan dengan nasi putih, sayuran, dan sambal khas Bali.",
+      "pictureId": "http://www.baliondemand.com/wp-content/uploads/2020/04/babi-guling-1.jpg",
+      "city": "Bali",
+      "rating": 4.6
+    },
+    {
+      "id": "fe8bbxoazddkcowlqdz",
+      "name": "Ikan Bakar Ternate",
+      "description": "Ikan Bakar Ternate adalah makanan khas dari pulau Ternate yang terletak di Kepulauan Maluku. Makanan ini terdiri dari ikan segar yang dibakar dengan arang atau panggang di atas bara api. Ikan yang umum digunakan adalah ikan laut seperti ikan kakap, ikan baronang, atau ikan tenggiri. Sebelum dibakar, ikan biasanya diolesi dengan bumbu rempah khas Ternate seperti kemiri, kunyit, jahe, bawang merah, dan cabai merah. Hasilnya adalah ikan dengan daging yang lezat, harum, dan memiliki rasa yang khas.",
+      "pictureId": "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2021/12/14/3066016044.jpg",
+      "city": "Ternate",
+      "rating": 4.0
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Rawon Malang",
+      "description": "Rawon Malang adalah hidangan daging berkuah hitam yang berasal dari kota Malang, Jawa Timur. Hidangan ini terbuat dari daging sapi yang dimasak dengan rempah-rempah khas seperti kluwek, lengkuas, serai, dan kunyit. Kuahnya yang kental dan berwarna hitam pekat diperoleh dari ekstrak kluwek. Rawon Malang biasanya disajikan dengan nasi putih, tauge, irisan mentimun, telur asin, dan kerupuk. Rasanya yang kaya, gurih, dan sedikit bercita rasa rempah membuat Rawon Malang menjadi hidangan yang populer di Malang dan disukai oleh banyak orang.",
+      "pictureId": "https://www.masakapahariini.com/wp-content/uploads/2020/07/resep-rawon-khas-malang-matang-780x440.jpg",
+      "city": "Malang",
+      "rating": 4.7
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Mie Aceh",
+      "description": "Mie Aceh adalah hidangan mie khas dari provinsi Aceh, Indonesia. Mie ini terkenal dengan cita rasa pedas yang khas dan beragam bahan tambahan yang melengkapi. Mie Aceh biasanya menggunakan mie kuning tebal yang disajikan dengan daging sapi, daging ayam, atau seafood seperti udang dan cumi-cumi. Hidangan ini juga dilengkapi dengan potongan sayuran seperti kubis, wortel, daun bawang, dan tauge. Bumbu khas Mie Aceh mengandung rempah-rempah seperti cabai, bawang merah, bawang putih, jahe, dan kemiri. Hasilnya adalah mie yang memiliki rasa gurih, pedas, dan beraroma sedap.",
+      "pictureId": "https://img-global.cpcdn.com/recipes/9504cf67ccdb2eee/1360x964cq70/mie-aceh-devina-hermawan-foto-resep-utama.webp",
+      "city": "Aceh",
+      "rating": 4.8
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "Gudeg Jogja",
+      "description": "Gudeg Jogja adalah hidangan khas dari Yogyakarta, Indonesia. Hidangan ini terbuat dari nangka muda yang dimasak dalam santan dengan tambahan rempah-rempah seperti daun salam, lengkuas, bawang putih, dan gula merah. Proses memasak yang panjang membuat daging nangka menjadi empuk dan meresap dengan kuah santan yang kaya rasa. Gudeg Jogja biasanya disajikan dengan nasi, ayam suwir, telur, tahu, dan sambal goreng krecek. Rasanya yang manis, gurih, dan sedikit pedas membuat Gudeg Jogja menjadi hidangan yang sangat populer di Yogyakarta.",
+      "pictureId": "https://akcdn.detik.net.id/community/media/visual/2020/12/26/gudeg-yu-djum.jpeg?w=1120",
+      "city": "Yogyakarta",
+      "rating": 4.6
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Rujak Cingur",
+      "description": "Rujak Cingur adalah makanan khas Surabaya yang terkenal dengan perpaduan rasa segar dan gurih. Rujak ini terdiri dari berbagai potongan buah seperti mangga, nanas, timun, dan bengkoang yang disajikan dengan tambahan cingur (hidung sapi direbus) dan lontong. Semua bahan tersebut disiram dengan bumbu rujak yang terbuat dari campuran petis udang, gula merah, air jeruk nipis, cabai, dan rempah-rempah lainnya. Rujak Cingur memiliki cita rasa yang unik, perpaduan antara manis, asam, pedas, dan gurih yang menggugah selera.",
+      "pictureId": "https://i0.wp.com/www.topwisata.info/wp-content/uploads/2023/02/Resep-Rujak-Cingur.webp?resize=930%2C620&ssl=1",
+      "city": "Surabaya",
+      "rating": 4.0
+    },
+    {
+      "id": "8i06gqcc2dpkcowlqdz",
+      "name": "Rendang",
+      "description": "Rendang adalah hidangan ikonik dari masakan Padang, Sumatera Barat. Hidangan ini terdiri dari potongan daging sapi yang dimasak dalam bumbu rempah yang kaya dan kompleks. Rendang membutuhkan proses memasak yang panjang dengan campuran rempah seperti serai, daun jeruk, lengkuas, cabai merah, bawang merah, bawang putih, dan santan kelapa. Proses memasak yang lambat membuat daging sapi menjadi sangat empuk dan bumbu meresap ke dalamnya, menghasilkan cita rasa yang kaya, gurih, pedas, dan sedikit manis. Rendang biasanya disajikan dengan nasi putih dan pelengkap seperti telur dadar, kerupuk, dan sayuran.",
+      "pictureId": "https://www.astronauts.id/blog/wp-content/uploads/2023/03/Resep-Rendang-Daging-Sapi-Untuk-Lebaran-Gurih-dan-Nikmat.jpg",
+      "city": "Sumatera",
+      "rating": 4.9
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Soto Betawi",
+      "description": "Soto Betawi adalah makanan khas Jakarta yang terkenal dengan kuah santan kental yang gurih. Soto ini biasanya terbuat dari daging sapi yang dimasak dengan rempah-rempah seperti serai, daun jeruk, jahe, dan bawang merah. Kuah santan yang kaya rasa ini memberikan cita rasa lezat pada soto Betawi. Selain daging sapi, soto ini juga biasanya disajikan dengan potongan kentang, tomat, emping, dan seledri. Soto Betawi dapat dinikmati dengan nasi putih dan pelengkap seperti sambal, jeruk nipis, dan kerupuk.",
+      "pictureId": "https://www.unileverfoodsolutions.co.id/dam/global-ufs/mcos/SEA/calcmenu/recipes/ID-recipes/soups/soto-betawi/main-header.jpg/jcr:content/renditions/cq5dam.thumbnail.desktop.jpeg",
+      "city": "Jakarta",
+      "rating": 4.3
+    }
+  ]
+}
